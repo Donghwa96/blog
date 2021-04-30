@@ -27,6 +27,6 @@ requests==2.22.0
 requests-oauthlib==1.2.0
 -e git+https://github.com/mariocesar/sorl-thumbnail.git@22ccd9781462a820f963f57018ad3dcef85053ed#egg=sorl_thumbnail
 sqlparse==0.3.0
-urllib3==1.25.3
+urllib3==1.25.8
 Werkzeug==0.15.5
 whitenoise==4.1.3
